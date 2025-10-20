@@ -1,4 +1,3 @@
-<img width="2806" height="1456" alt="Screenshot 2025-10-20 224423" src="https://github.com/user-attachments/assets/057d686c-26d7-4378-b74b-5a0420a13c05" /># Task 3 – Web UI (React + TS + Ant Design)
 
 This is a React 19 + TypeScript + Vite frontend for Task 1 backend. It supports:
 - Create, list, search, and delete tasks
